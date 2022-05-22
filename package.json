@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yukisagawa/typescript-for-sagakin/issues"
   },
-  "homepage": "https://github.com/yukisagawa/typescript-for-sagakin#readme"
+  "homepage": "https://github.com/yukisagawa/typescript-for-sagakin#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
 }
